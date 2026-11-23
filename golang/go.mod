@@ -1,10 +1,10 @@
 module github.com/mikedev101/cloudlink/golang
 
-go 1.20
+go 1.23
 
 require (
 	github.com/bwmarrin/snowflake v0.3.0
-	github.com/goccy/go-json v0.10.2
+	github.com/goccy/go-json v0.12.0
 	github.com/gofiber/contrib/websocket v1.2.2
 	github.com/gofiber/fiber/v2 v2.52.0
 	github.com/google/uuid v1.5.0
