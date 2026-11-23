@@ -1,30 +1,30 @@
 {
-    "0": {
+    "C0": {
         "id": "Localhost",
         "url": "ws://127.0.0.1:3000/"
     },
-    "1": {
-        "id": "Mike's Server (For Project Compatibility)",
-        "url": "wss://cl.mikedev101.cc/"
+    "C1": {
+        "id": "Inbonha's server 3",
+        "url": "wss://cloud-hosting-cebolonha-1.onrender.com"
     },
-    "3": {
-        "id": "Mike's Server (For Project Compatibility)",
-        "url": "wss://cl.mikedev101.cc/"
+    "C2": {
+        "id": "Inbonha's server 2",
+        "url": "wss://cloud-hosting-cebolonha-1.onrender.com"
     },
-    "4": {
-        "id": "MubiLop's CL4 Server",
-        "url": "wss://cl1.mubilop.tech/"
+    "C3": {
+        "id": "Inbonha's server 3",
+        "url": "wss://cloud-hosting-cebolonha-1.onrender.com"
     },
-    "5": {
-        "id": "Mike's Server (For Project Compatibility)",
-        "url": "wss://cl.mikedev101.cc/"
+    "C4": {
+        "id": "Inbonha's server 4",
+        "url": "wwss://cloud-hosting-cebolonha-1.onrender.com"
     },
-    "6": {
-        "id": "Mike's Server (For Project Compatibility)",
-        "url": "wss://cl.mikedev101.cc/"
+    "C5": {
+        "id": "Inbonha's server 5",
+        "url": "wss://cloud-hosting-cebolonha-1.onrender.com"
     },
-    "7": {
-        "id": "Mike's Server",
-        "url": "wss://cl.mikedev101.cc/"
+    "C6": {
+        "id": "Inbonha's server 6",
+        "url": "wss://cloud-hosting-cebolonha-1.onrender.com"
     }
 }
